@@ -13,3 +13,5 @@ To check if changes -> git status
 Two step process to save the modified file ->
 git add file_name (to add all files -> git add .)
 git commit -m "some message"
+
+Upload local content to remote repo -> git push origin main
